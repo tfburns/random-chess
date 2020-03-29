@@ -1,5 +1,4 @@
 # Random Chess
-What happens if chess players make random moves?
 
 29 March 2020:
 Today a 10-year-old and I asked, "What happens if chess players make random moves?"
